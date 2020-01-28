@@ -7,4 +7,8 @@ import matplotlib.pyplot as plt
 import matplotlib.animation as animation
 import time
 import random
-import model
+from model import Generator,Discriminator,DHead,QHead
+from data import *
+from utils
+
+root = '/Dataset/'
