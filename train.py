@@ -9,6 +9,6 @@ import time
 import random
 from model import Generator,Discriminator,DHead,QHead
 from data import *
-from utils
+from utils import *
 
 root = '/Dataset/'
